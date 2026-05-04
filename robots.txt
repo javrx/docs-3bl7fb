@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://javrx.github.io/docs-3bl7fb/sitemap.xml
